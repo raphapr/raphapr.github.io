@@ -21,5 +21,14 @@
 My email is raphaelpr01@gmail.com and you can find me on LinkedIn and GitHub.</description>
     </item>
     
+    <item>
+      <title>Hello World</title>
+      <link>http://raphapr.github.io/post/hello-world/</link>
+      <pubDate>Sat, 10 Mar 2018 14:46:35 -0300</pubDate>
+      
+      <guid>http://raphapr.github.io/post/hello-world/</guid>
+      <description>Hello world! Hugo is awesome.</description>
+    </item>
+    
   </channel>
 </rss>
