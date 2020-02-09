@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://raphapr.github.io/post/hello-world/</loc>
+    <loc>https://raphapr.github.io/post/hello-world/</loc>
     <lastmod>2018-03-10T14:46:35-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://raphapr.github.io/post/</loc>
+    <loc>https://raphapr.github.io/post/</loc>
     <lastmod>2018-03-10T14:46:35-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://raphapr.github.io/</loc>
+    <loc>https://raphapr.github.io/</loc>
     <lastmod>2018-03-10T14:46:35-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://raphapr.github.io/categories/</loc>
+    <loc>https://raphapr.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://raphapr.github.io/tags/</loc>
+    <loc>https://raphapr.github.io/tags/</loc>
   </url>
   
 </urlset>
