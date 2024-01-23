@@ -12,9 +12,10 @@ theme = 'm10c'
 
 [params]
   author = "raphapr"
-  description = "A small corner of the internet where I chat about my recent mind-blowers."
+  description = "Hi! I'm Raphael. Here's a small corner of the internet where I share whatever strikes my fancy. I hope you enjoy it!"
   menu_item_separator = " - "
   avatar = "avatar.jpg"
+  favicon = "/favicon.ico"
   [[params.social]]
     icon = "github"
     name = "My Github"
