@@ -9,10 +9,15 @@ theme = 'm10c'
     name = "Home"
     url = "/"
     weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
 
 [params]
-  author = "raphapr"
-  description = "Hi! I'm Raphael. Here's a small corner of the internet where I share whatever strikes my fancy. I hope you enjoy it!"
+  author = "raphapr | blog"
+  description = "Here's a small corner of the internet where I share whatever strikes my fancy."
   menu_item_separator = " - "
   avatar = "avatar.jpg"
   favicon = "/favicon.ico"
